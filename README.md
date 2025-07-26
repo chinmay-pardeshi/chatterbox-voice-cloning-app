@@ -1,3 +1,14 @@
+---
+title: Chatterbox Voice Cloning App
+emoji: 🗣️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "5.38.2"
+app_file: app.py
+pinned: false
+license: mit
+---
 
 <img width="1200" alt="cb-big2" src="https://github.com/user-attachments/assets/bd8c5f03-e91d-4ee5-b680-57355da204d1" />
 
