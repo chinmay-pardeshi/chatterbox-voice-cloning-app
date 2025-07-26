@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="chatterbox-tts",
-    version="0.1.2",
+    name="chatterbox",
+    version="0.1.0",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     install_requires=[
@@ -16,6 +16,6 @@ setup(
         "resemble-perth==1.0.1",
         "conformer==0.3.2",
         "safetensors==0.5.3",
-        "gradio",
+        "gradio"
     ],
 )
