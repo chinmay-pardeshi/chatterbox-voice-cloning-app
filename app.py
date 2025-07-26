@@ -1,3 +1,9 @@
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
+
+
+
 import gradio as gr
 import torchaudio as ta
 from chatterbox.tts import ChatterboxTTS
