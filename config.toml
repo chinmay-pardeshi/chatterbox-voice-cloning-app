@@ -1,0 +1,2 @@
+[tool.streamlit.packageManager]
+type = "pip"
