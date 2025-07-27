@@ -1,10 +1,11 @@
-# CPU-only PyTorch + Torchaudio
-torch==2.7.1+cpu
-torchaudio==2.7.1+cpu
 --index-url https://download.pytorch.org/whl/cpu
 
-# Other Dependencies
-transformers==4.46.3
+torch==2.7.1+cpu
+torchaudio==2.7.1+cpu
+
+# Relaxed version to ensure compatibility
+transformers==4.38.2
+
 diffusers==0.29.0
 conformer==0.3.2
 safetensors==0.5.3
