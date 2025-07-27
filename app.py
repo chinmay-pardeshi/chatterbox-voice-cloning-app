@@ -55,3 +55,18 @@ app = gr.Interface(
 # Launch the app
 if __name__ == "__main__":
     app.launch()
+ https://huggingface.co/spaces/chinmay-pardeshi/chatterbox-voice-cloning-app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
